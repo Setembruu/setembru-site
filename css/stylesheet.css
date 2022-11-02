@@ -2,5 +2,37 @@ main {
   display: flex;
   flex-flow: row wrap;
   justify-content: center;
+  font-size: 30px;
+  font-weight: bold;
   height: 100%;
+}
+
+.topnav a {
+  float: center;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  font-weight: bold;
+}
+
+.topnav a:hover {
+  background-color: yellow;
+  color: red;
+  font-style: italic;
+}
+
+.topnav a.active {
+  background-color: red;
+  color: yellow;
+  font-weight: bold;
+}
+
+footer {
+  display: grid;
+  justify-content: center;
+  font-style: italic;
+  text-align: center;
+  font-size: 10px;
 }
