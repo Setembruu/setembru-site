@@ -7,7 +7,7 @@ main {
   height: 100%;
 }
 
-.topnav a {
+nav a {
   float: center;
   color: black;
   text-align: center;
@@ -17,13 +17,13 @@ main {
   font-weight: bold;
 }
 
-.topnav a:hover {
+nav a:hover {
   background-color: yellow;
   color: red;
   font-style: italic;
 }
 
-.topnav a.active {
+nav a.active {
   background-color: red;
   color: yellow;
   font-weight: bold;
