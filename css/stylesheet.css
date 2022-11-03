@@ -27,3 +27,10 @@ footer {
   text-align: center;
   font-size: 10px;
 }
+
+h1 {
+  display: grid;
+  justify-content: center;
+  font-style: bold;
+  text-align: center;
+}
