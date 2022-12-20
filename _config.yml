@@ -28,33 +28,29 @@ github_username:  Setembruu
 linkedin_username: Arthur Kuwahara
 instagram_username: setembru_
 
-webrick:
-  headers:
-    My-Header: 
-
 # Build settings
 #plugins:
 #  - jekyll-feed
 
-#collections:
-#  pages:
-#    output: true
-#    permalink: /:path
+collections:
+  pages:
+    output: true
+    permalink: /:path
 
-#defaults:
-#  -
-#    scope:
-#      path: ""
-#      type: "pages"
-#    values:
-#      layout: "default"
-#  -  
-#    scope:
-#      path: ""
-#      type: "posts"
-#    values:
-#      layout: "post"
-#      author: "Setembru"
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  -  
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Setembru"
 
 
 # Exclude from processing.
