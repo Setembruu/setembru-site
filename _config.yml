@@ -28,9 +28,9 @@ github_username:  Setembruu
 linkedin_username: Arthur Kuwahara
 instagram_username: setembru_
 
-# Build settings
-#plugins:
-#  - jekyll-feed
+ Build settings
+plugins:
+  - jekyll-feed
 
 collections:
   pages:
@@ -44,13 +44,6 @@ defaults:
       type: "pages"
     values:
       layout: "default"
-  -  
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-      author: "Setembru"
 
 
 # Exclude from processing.
