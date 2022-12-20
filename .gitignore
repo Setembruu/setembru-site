@@ -1,3 +1,4 @@
 _site
 temp
-jekyll-cache
+jekyll-cachevendor/
+vendor/
