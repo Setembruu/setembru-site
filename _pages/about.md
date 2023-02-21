@@ -5,13 +5,13 @@ permalink: /sobre
 
 # Sobre
 
-## Minha formacao
+## Minha formação
 
 ### É revolucionária, e anti-imperialista...
 
-Olá, meu nome é Setembru, e sou uma pessoa não-binária! Atendo pelos pronomes ela/elu/ele ;)
+Olá, meu nome é Setembru, sou *genderfluid* (não-binário), e atendo pelos pronomes ela/elu ;)
 
-Sou cyberativista, militante da [União da Juventude Comunista](//ujc.org.br) (UJC), a juventude do [Partido Comunista Brasileiro](https://pcb.org.br/) (PCB). Também construo o movimento estudantil e estou como vice-presidente do [Centro Acadêmico Armando de Salles Oliveira](https://www.instagram.com/_caaso/) (CAASO) e construo o [Movimento por uma Universidade Popular](https://www.instagram.com/mup.nacional/) (MUP).
+Marxista-leninista, militante da [União da Juventude Comunista](//ujc.org.br) (UJC), a juventude do [Partido Comunista Brasileiro](https://pcb.org.br/) (PCB). Também construo o movimento estudantil e estou como vice-presidente do [Centro Acadêmico Armando de Salles Oliveira](https://www.instagram.com/_caaso/) (CAASO) e construo o [Movimento por uma Universidade Popular](https://www.instagram.com/mup.nacional/) (MUP).
 
 ### Use GNU Linux!
 
