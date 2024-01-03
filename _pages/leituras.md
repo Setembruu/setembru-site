@@ -1,12 +1,17 @@
-Organizando leituras de tribunas e pré-teses congressuais
+---
+title: Leituras
+permalink: /leituras
+---
+# XVII Congresso Extraordinário do PCB-RR
+	Organizando leituras de tribunas e pré-teses congressuais
 
 **Etapa do meu núcleo:** 21, 27 e 28 de janeiro de 2024.
-# TO-DO
+## TO-DO
 
 - [ ] Elencar
 - [ ] Curar
 - [x] Estabelecer tetos
-# Tribunas minhas em andamento:
+## Tribunas minhas em andamento:
 - Contra o sectarismo
 - Violência policia. Linha máxima de aigtação e propaganda?
 - Amizade ou barbárie!
@@ -14,7 +19,7 @@ Organizando leituras de tribunas e pré-teses congressuais
 - [Suicídio, Vida Interna e o Partido Comunista](https://emdefesadocomunismo.com.br/suicidio-vida-interna-e-o-partido-comunista/)
 # Curadoria
 ## Critérios de elencamento
-Obs.: enumerados são elencados; não numerados são leituras bônus, ou estão sem prioridade entre si.
+	Obs.: enumerados são elencados; não numerados são leituras bônus, ou estão sem prioridade entre si.
 
 - Tempo de leitura;
 - alinhamento com o que estou escrevendo;
@@ -86,17 +91,14 @@ https://emdefesadocomunismo.com.br/aliar-se-ao-pcr-na-luta-contra-a-violencia-po
 4. [Em frente! Duas questões sobre nosso jornal partidário](https://emdefesadocomunismo.com.br/em-frente-duas-questoes-sobre-nosso-jornal-partidario/)
 5. [Como deve ser um jornal no século XXI?](https://emdefesadocomunismo.com.br/como-deve-ser-um-jornal-no-seculo-xxi/)
 - [O jornal de Lenin](https://emdefesadocomunismo.com.br/o-jornal-de-lenin/)
-
 ### POLÍTICA
 https://emdefesadocomunismo.com.br/o-partido-proletario-e-o-democratismo-pequeno-burgues-a-tatica-do-pcb-no-atual-estagio-da-luta-de-classes/
 https://emdefesadocomunismo.com.br/polemicas-sobre-o-perfil-do-proletariado-brasileiro/
 https://emdefesadocomunismo.com.br/a-politica-dos-comunistas-para-as-putas-e-entregadores-no-brasil-o-trabalho-politico-no-ramo-da-informalidade/
 https://emdefesadocomunismo.com.br/qual-o-papel-dos-comunistas-na-luta-pela-terra-e-por-territorio-e-por-que-nos-recusamos-a-assumi-lo/
-
 https://emdefesadocomunismo.com.br/o-partido-comunista-do-proletariado-contribuicao-anonima/
 https://emdefesadocomunismo.com.br/um-foco-nos-trabalhadores-do-transporte/
 https://emdefesadocomunismo.com.br/a-revolucao-so-vira-pelas-maos-da-classe-trabalhadora/
-
 ### OPRESSÕES
 https://emdefesadocomunismo.com.br/o-feminismo-nao-vai-salvar-todo-mundo-um-debate-sobre-genero-e-racialidade/
 https://emdefesadocomunismo.com.br/violencia-politica-dentro-e-fora-dos-partidos-comunistas/
@@ -146,3 +148,46 @@ https://emdefesadocomunismo.com.br/pela-organizacao-e-distribuicao-da-nossa-prod
 - [Construir um partido nacional](https://emdefesadocomunismo.com.br/construir-um-partido-nacional-camarada-deuterio/)
 - [Do Twitter para o Jornal: A Organização da Polêmica Partidária](https://emdefesadocomunismo.com.br/do-twitter-para-o-jornal-a-organizacao-da-polemica-partidaria/)
 - [Pela construção de um OC à altura do nosso povo](https://emdefesadocomunismo.com.br/pela-construcao-de-um-oc/)
+
+
+---
+### Comentários da Setembru
+*- É... aqui você vai encontrar bastante... política.* Mas juro que não sou ~~(tão)~~ chata!
+
+### Tarefinhas pra Setembru
+
+#### Design:
+- [ ] separar obra - editora (se necessário) - autore - ano de publicação
+- [ ] criar design de comentários sobre as obras (O SITE TEM QUE TER A MARCA DA SETEMBRITA UHUL)
+- [ ] deixar claro o que é conto e o que é livro (será?)
+
+<br>
+
+---
+
+## Lendo
+- **[O que fazer?](https://www.marxists.org/portugues/lenin/1902/quefazer/index.htm)** (Lenin/1902)
+- **[Esquerdismo: Doença Infantil do Comunismo](https://www.marxists.org/portugues/lenin/1920/esquerdismo/index.htm)** (Lenin/1920)
+- **A Comuna de Paris** *150* (Expressão Popular, vários autores/2021)
+
+## Lido
+
+- **Alice no País das Maravilhas** (Cosac Naify, Lewis Carrow/2009) *#sim, esse é o meu favorito*
+- **[O Manifesto do Partido Comunista](https://www.marxists.org/portugues/marx/1848/ManifestoDoPartidoComunista/index.htm)** (Marx e Engels/1848)
+- **Maus** (art spiegelman/1980)
+- **O Corvo** (Companhia das Letras, Edgar A. Poe/2019)
+- **A mulher mais linda da cidade *& outras histórias*** (L&PM, Bukowski, 2013)
+- **Quincas Borba** (Machado de Assis/1891)
+- **Campo geral** (Guimarães Rosa/1956)
+
+## Na fila
+
+- **Salário, Preço e Lucro** (Marx/1865)
+- **[Do Socialismo Utópico ao Socialismo Cientifico](https://www.marxists.org/portugues/marx/1880/socialismo/index.htm)** (Engels/1880)
+- **Reforma ou revolução?** (Rosa Luxemburgo/1889)
+- **A Revolução Socialista e as Mulheres - *vol 1*** (LavraPalavra, Alexandra Kollontai/2021)
+- **Revolução Africana** (Jones Manoel e Gabriel Landi/2019)
+- **Capitães da Areia** (Jorge Amado/1937)
+- **[A Origem da Família, da Propriedade Privada e do Estado](https://www.marxists.org/portugues/marx/1884/origem/index.htm)** (Engels/1884)
+- **Movimento Estudantil: *história e memória do CAASO*** (Maria Hayashi e Mariangela Vicino/2007)
+- **Darwin Sem Frescura** (Pirula e Reinaldo J. Lopes/2019)
