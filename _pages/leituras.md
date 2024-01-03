@@ -141,6 +141,9 @@ permalink: /leituras
 - [Construir um partido nacional](https://emdefesadocomunismo.com.br/construir-um-partido-nacional-camarada-deuterio/)
 - [Do Twitter para o Jornal: A Organização da Polêmica Partidária](https://emdefesadocomunismo.com.br/do-twitter-para-o-jornal-a-organizacao-da-polemica-partidaria/)
 - [Pela construção de um OC à altura do nosso povo](https://emdefesadocomunismo.com.br/pela-construcao-de-um-oc/)
+
+<br>
+
 ---
 ### Comentários da Setembru
 *- É... aqui você vai encontrar bastante... política.* Mas juro que não sou ~~(tão)~~ chata!
