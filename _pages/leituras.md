@@ -6,11 +6,7 @@ permalink: /leituras
 	Organizando leituras de tribunas e pré-teses congressuais
 
 **Etapa do meu núcleo:** 21, 27 e 28 de janeiro de 2024.
-## TO-DO
 
-- [ ] Elencar
-- [ ] Curar
-- [x] Estabelecer tetos
 ## Tribunas minhas em andamento:
 - Contra o sectarismo
 - Violência policia. Linha máxima de aigtação e propaganda?
