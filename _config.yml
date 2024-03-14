@@ -23,7 +23,7 @@ email: a.kuwahara@usp.br
 description: >- # this means to ignore newlines until "baseurl:"
   Seja muito bem-vinde ao meu site!
 
-baseurl: "/about" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.setembru.dev.br" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Setembruu
 github_username:  Setembruu
@@ -33,6 +33,19 @@ instagram_username: setembruu
 theme: minima
 plugins:
   - jekyll-feed
+
+collections:
+  pages:
+    output: true
+    permalink: /:path
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
