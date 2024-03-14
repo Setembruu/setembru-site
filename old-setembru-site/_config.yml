@@ -8,7 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you:
+# If you need help with YAML syntax, here are some quick references for you: 
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -21,18 +21,30 @@
 title: Setembru
 email: a.kuwahara@usp.br
 description: >- # this means to ignore newlines until "baseurl:"
-  Seja muito bem-vinde ao meu site!
+  Seja bem-vinde ao meu site! Em construcao :)  
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: Setembruu
+url: "https://setembru.dev.br" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Setembruu
-instagram_username: setembruu
+linkedin_username: Arthur Kuwahara
+instagram_username: setembru_
 
-# Build settings
-theme: minima
+ Build settings
 plugins:
   - jekyll-feed
+
+collections:
+  pages:
+    output: true
+    permalink: /:path
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
