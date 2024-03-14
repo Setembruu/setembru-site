@@ -1,4 +1,4 @@
 _site
 temp
-jekyll-cachevendor/
+.jekyll-cache
 vendor/
