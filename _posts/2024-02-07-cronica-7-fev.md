@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "cronica 7 fev"
-date:   2024-02-7
+date:   2024-02-07
 ---
 
 outra noite, vi um carro. não sabia quem dirigia e, portanto, não sei qual era seu destino ou intenção. sei que era um carro de cor rosa pastel, um modelo de grife - custou ao proprietário, pelo menos, uns 500 mil. nas janelas, tinha um insulfilm preto opaco, não dava para enxergar nada do que estava dentro.
