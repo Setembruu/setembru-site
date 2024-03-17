@@ -4,7 +4,7 @@ title: Leituras
 permalink: /leituras
 ---
 
-*- É... aqui você vai encontrar bastante... política.* Mas juro que não sou ~~(tão)~~ chata!
+**Isso aqui está TOTALMENTE desatualizado**
 
 ### Tarefinhas pra Setembru
 
@@ -12,8 +12,6 @@ permalink: /leituras
 - [ ] separar obra - editora (se necessário) - autore - ano de publicação
 - [ ] criar design de comentários sobre as obras (O SITE TEM QUE TER A MARCA DA SETEMBRITA UHUL)
 - [ ] deixar claro o que é conto e o que é livro (será?)
-
-<br>
 
 ---
 
