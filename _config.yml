@@ -23,11 +23,13 @@ email: a.kuwahara@usp.br
 description: >- # this means to ignore newlines until "baseurl:"
   Seja muito bem-vinde ao meu site!
 
-baseurl: "" # the subpath of your site, e.g. /blog
+# baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.setembru.dev.br" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Setembruu
 github_username:  Setembruu
 instagram_username: setembruu
+
+pgp: "1CA6D5CE056D5EB69E30BA1290C28191991027D4"
 
 # Build settings
 theme: minima
