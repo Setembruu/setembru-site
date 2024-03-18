@@ -6,15 +6,6 @@ permalink: /leituras
 
 **Isso aqui está TOTALMENTE desatualizado**
 
-### Tarefinhas pra Setembru
-
-#### Design:
-- [ ] separar obra - editora (se necessário) - autore - ano de publicação
-- [ ] criar design de comentários sobre as obras (O SITE TEM QUE TER A MARCA DA SETEMBRITA UHUL)
-- [ ] deixar claro o que é conto e o que é livro (será?)
-
----
-
 ## Lendo
 - **[O que fazer?](https://www.marxists.org/portugues/lenin/1902/quefazer/index.htm)** (Lenin/1902)
 - **[Esquerdismo: Doença Infantil do Comunismo](https://www.marxists.org/portugues/lenin/1920/esquerdismo/index.htm)** (Lenin/1920)
