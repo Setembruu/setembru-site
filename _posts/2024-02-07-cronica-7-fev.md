@@ -1,6 +1,6 @@
 ---
-layout: post
 title:  "cronica 7 fev"
+layout: post
 date:   2024-02-07
 ---
 
